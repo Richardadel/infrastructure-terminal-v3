@@ -17,7 +17,7 @@ Enterprise IT infrastructure professional with 5+ years of experience supporting
 ## ENGINEERING CONTROL PLANE
 
 <div align="center">
-  <img src="./assets/control-plane.svg" alt="Conceptual multi-layer infrastructure architecture connecting identity, endpoints, cloud, physical networks, and operations" width="100%">
+  <img src="./assets/control-plane.svg?v=33194a6" alt="Conceptual multi-layer infrastructure architecture connecting identity, endpoints, cloud, physical networks, and operations" width="100%">
 </div>
 
 <sub>Conceptual expertise model — not a depiction of a deployed production environment or live telemetry.</sub>
