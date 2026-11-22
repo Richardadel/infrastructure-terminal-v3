@@ -17,9 +17,9 @@
     <rect x="888" y="24" width="528" height="340" rx="16"/>
   </g>
 
-  <g font-family="ui-monospace, monospace">
-    <text x="54" y="64" fill="#00FF88" font-size="12" letter-spacing="3">PROJECT 01 // FULL-STACK PHP</text>
-    <text x="54" y="108" fill="#F2FFF8" font-size="24" font-weight="700">GYM MANAGEMENT SYSTEM</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="54" y="64" fill="#00FF88" font-size="22" letter-spacing="2">PROJECT 01 // FULL-STACK PHP</text>
+    <text x="54" y="108" fill="#F2FFF8" font-size="34" font-weight="700">GYM MANAGEMENT SYSTEM</text>
   </g>
   <g fill="none" stroke="#00FF88" stroke-width="1.5" opacity=".82">
     <rect x="54" y="170" width="156" height="142" rx="10"/>
@@ -27,28 +27,28 @@
     <rect x="566" y="170" width="156" height="142" rx="10"/>
     <path d="M210 240H310M466 240H566"/>
   </g>
-  <g font-family="ui-monospace, monospace" text-anchor="middle" fill="#8AFFC1" font-size="10">
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#8AFFC1" font-size="22">
     <text x="132" y="212">LOGIN / SESSION</text><text x="132" y="238">MEMBERSHIP UI</text><text x="132" y="264">AUTHENTICATION</text>
     <text x="388" y="212">PHP CONTROLLERS</text><text x="388" y="238">MEMBERS / TRAINERS</text><text x="388" y="264">CLASSES / CRUD</text>
     <text x="644" y="212">MYSQL DATA</text><text x="644" y="238">ENROLLMENTS</text><text x="644" y="264">FOREIGN KEYS</text>
   </g>
 
-  <g font-family="ui-monospace, monospace">
-    <text x="918" y="64" fill="#00FF88" font-size="12" letter-spacing="3">PROJECT 02 // RELATIONAL MODEL</text>
-    <text x="918" y="108" fill="#F2FFF8" font-size="24" font-weight="700">YOGA DATABASE</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="918" y="64" fill="#00FF88" font-size="22" letter-spacing="2">PROJECT 02 // RELATIONAL MODEL</text>
+    <text x="918" y="108" fill="#F2FFF8" font-size="34" font-weight="700">YOGA DATABASE</text>
   </g>
   <g fill="none" stroke="#00FF88" stroke-width="1.5" opacity=".82">
     <rect x="916" y="160" width="134" height="62" rx="8"/><rect x="1085" y="160" width="134" height="62" rx="8"/><rect x="1254" y="160" width="134" height="62" rx="8"/>
     <rect x="1000" y="270" width="134" height="62" rx="8"/><rect x="1169" y="270" width="134" height="62" rx="8"/>
     <path d="M983 222V270M1152 222V270M1321 222V270M1134 301H1169"/>
   </g>
-  <g font-family="ui-monospace, monospace" text-anchor="middle" fill="#8AFFC1" font-size="10">
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#8AFFC1" font-size="22">
     <text x="983" y="187">MEMBERS</text><text x="1152" y="187">INSTRUCTORS</text><text x="1321" y="187">CLASSES</text><text x="1067" y="297">SCHEDULE</text><text x="1236" y="297">ROOMS</text>
   </g>
 
-  <g font-family="ui-monospace, monospace">
-    <text x="54" y="428" fill="#00FF88" font-size="12" letter-spacing="3">PROJECT 03 // DATA ANALYSIS</text>
-    <text x="54" y="472" fill="#F2FFF8" font-size="24" font-weight="700">GLOBAL CYBERSECURITY THREAT DATA</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="54" y="428" fill="#00FF88" font-size="22" letter-spacing="2">PROJECT 03 // DATA ANALYSIS</text>
+    <text x="54" y="472" fill="#F2FFF8" font-size="34" font-weight="700">GLOBAL CYBERSECURITY THREAT DATA</text>
   </g>
   <g fill="none" stroke="#00FF88" stroke-width="1.5" opacity=".82">
     <path d="M54 548H1386"/>
@@ -60,7 +60,7 @@
       <rect x="1166" y="520" width="220" height="180" rx="10"/>
     </g>
   </g>
-  <g font-family="ui-monospace, monospace" text-anchor="middle" fill="#8AFFC1" font-size="10">
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#8AFFC1" font-size="20">
     <text x="164" y="556">1  CSV SOURCE</text><text x="164" y="582">COUNTRY / YEAR</text><text x="164" y="608">ATTACK / INDUSTRY</text>
     <text x="442" y="556">2  INCIDENT FIELDS</text><text x="442" y="582">ATTACK / INDUSTRY</text><text x="442" y="608">VULNERABILITY / DEFENSE</text>
     <text x="720" y="556">3  BUSINESS METRICS</text><text x="720" y="582">LOSS / USERS</text><text x="720" y="608">RESOLUTION TIME</text>

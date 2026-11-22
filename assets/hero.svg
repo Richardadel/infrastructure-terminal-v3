@@ -14,13 +14,12 @@
   </g>
   <line x1="20" y1="74" x2="1420" y2="74" stroke="#1C3B2D"/>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="64" y="132" fill="#8AFFC1" font-size="15" letter-spacing="5">&gt; SYSTEM.IDENTITY</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="64" y="132" fill="#8AFFC1" font-size="22" letter-spacing="4">&gt; SYSTEM.IDENTITY</text>
     <text x="64" y="216" fill="#F2FFF8" font-size="64" font-weight="800" letter-spacing="1">RICHARD FATHALLA</text>
     <text x="64" y="258" fill="#00FF88" font-size="19" font-weight="700" letter-spacing="2">IT INFRASTRUCTURE &amp; SYSTEMS ENGINEERING</text>
-    <text x="64" y="300" fill="#8FA99B" font-size="14" letter-spacing="2">IDENTITY / ENDPOINTS / CLOUD / NETWORKS / OPERATIONS</text>
-    <text x="64" y="374" fill="#8FA99B" font-size="12">ENGINEERING PORTFOLIO // RF-001</text>
-    <text x="64" y="402" fill="#8AFFC1" font-size="14">richard_fathalla@engineering:~$</text>
+    <text x="64" y="300" fill="#A9BFB3" font-size="22" letter-spacing="1">IDENTITY / ENDPOINTS / CLOUD / NETWORKS / OPERATIONS</text>
+    <text x="64" y="402" fill="#8AFFC1" font-size="20">richard_fathalla@engineering:~$</text>
     <rect x="350" y="388" width="9" height="17" fill="#00FF88"/>
   </g>
 
@@ -45,7 +44,7 @@
     <circle cx="850" cy="356" r="8"/><circle cx="1000" cy="260" r="8"/><circle cx="1128" cy="160" r="8"/><circle cx="1324" cy="160" r="8"/><circle cx="1324" cy="442" r="8"/>
     <circle cx="1220" cy="102" r="8"/><circle cx="1180" cy="510" r="8"/>
   </g>
-  <g font-family="ui-monospace, monospace" text-anchor="middle" fill="#8AFFC1" font-size="10">
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#8AFFC1" font-size="20">
     <text x="850" y="354">OPERATIONS</text><text x="1000" y="256">IDENTITY</text><text x="1128" y="156">ENDPOINT</text><text x="1324" y="156">CLOUD</text><text x="1324" y="438">NETWORK</text>
     <text x="1275" y="98">AZURE</text><text x="1275" y="508">M365</text>
   </g>
