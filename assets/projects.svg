@@ -1,6 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="t d"><title id="t">Verified GitHub projects</title><desc id="d">Gym web application, yoga database, and cybersecurity threat data analysis.</desc><rect width="1440" height="520" rx="18" fill="#050807"/>
-<g fill="#0B1110" stroke="#1C3B2D" stroke-width="2"><rect x="24" y="24" width="448" height="472" rx="16"/><rect x="496" y="24" width="448" height="472" rx="16"/><rect x="968" y="24" width="448" height="472" rx="16"/></g>
-<g font-family="ui-monospace, monospace"><g fill="#00FF88" font-size="12" letter-spacing="2"><text x="48" y="64">PHP / MYSQL</text><text x="520" y="64">SQL / DATABASE DESIGN</text><text x="992" y="64">DATA / CYBERSECURITY</text></g><g fill="#F2FFF8" font-size="20" font-weight="700"><text x="48" y="112">GYM MANAGEMENT</text><text x="520" y="112">YOGA DATABASE</text><text x="992" y="112">THREAT ANALYSIS</text></g><g fill="#8FA99B" font-size="11"><text x="48" y="148">AUTH / MEMBERS / TRAINERS</text><text x="520" y="148">ENTITIES / RELATIONS / SQL</text><text x="992" y="148">DATASET / EXPLORATION / STATS</text></g></g>
-<g fill="none" stroke="#00FF88" stroke-width="1.5" opacity=".75"><rect x="48" y="190" width="400" height="210" rx="12"/><rect x="520" y="190" width="400" height="210" rx="12"/><rect x="992" y="190" width="400" height="210" rx="12"/></g>
-<g font-family="ui-monospace, monospace" text-anchor="middle" fill="#8AFFC1" font-size="11"><text x="248" y="230">USER / ADMIN</text><text x="248" y="270">PHP / SESSION / CRUD</text><text x="248" y="310">MYSQL / ENROLLMENT</text><text x="720" y="230">MEMBERS / INSTRUCTORS</text><text x="720" y="270">CLASSES / ROOMS</text><text x="720" y="310">SQL / ACCESS / RELATIONS</text><text x="1192" y="230">THREAT CSV DATA</text><text x="1192" y="270">EXPLORATION</text><text x="1192" y="310">STATISTICS / VISUALIZATION</text></g>
-<g font-family="ui-monospace, monospace" text-anchor="middle" fill="#8FA99B" font-size="10"><text x="248" y="446">VERIFIED REPOSITORY</text><text x="720" y="446">VERIFIED REPOSITORY</text><text x="1192" y="446">VERIFIED REPOSITORY</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="760" viewBox="0 0 1440 760" role="img" aria-labelledby="title desc">
+  <title id="title">Verified engineering project showcase</title>
+  <desc id="desc">A gym PHP and MySQL application, yoga relational database, and cybersecurity threat dataset.</desc>
+  <rect width="1440" height="760" rx="18" fill="#050807"/>
+  <g fill="#0B1110" stroke="#1C3B2D" stroke-width="2">
+    <rect x="24" y="24" width="840" height="330" rx="16"/>
+    <rect x="888" y="24" width="528" height="330" rx="16"/>
+    <rect x="24" y="378" width="1392" height="358" rx="16"/>
+  </g>
+
+  <g font-family="ui-monospace, monospace">
+    <text x="54" y="64" fill="#00FF88" font-size="12" letter-spacing="3">PROJECT 01 // FULL-STACK APPLICATION</text>
+    <text x="54" y="108" fill="#F2FFF8" font-size="24" font-weight="700">GYM MANAGEMENT SYSTEM</text>
+    <text x="54" y="138" fill="#8FA99B" font-size="12">PHP · MYSQL · AUTHENTICATION · MEMBERSHIP · ENROLLMENT</text>
+  </g>
+  <g fill="none" stroke="#00FF88" stroke-width="1.5" opacity=".75">
+    <rect x="54" y="170" width="178" height="130" rx="10"/>
+    <rect x="278" y="170" width="178" height="130" rx="10"/>
+    <rect x="502" y="170" width="178" height="130" rx="10"/>
+    <path d="M232 235H278M456 235H502"/>
+  </g>
+  <g font-family="ui-monospace, monospace" text-anchor="middle" fill="#8AFFC1" font-size="11">
+    <text x="143" y="220">PHP SESSION</text><text x="143" y="244">LOGIN / AUTH</text><text x="143" y="268">ROLE ROUTING</text>
+    <text x="367" y="220">APPLICATION</text><text x="367" y="244">MEMBERS / CLASSES</text><text x="367" y="268">TRAINERS / CRUD</text>
+    <text x="591" y="220">MYSQL</text><text x="591" y="244">MEMBERS / CLASSES</text><text x="591" y="268">TRAINERS / ENROLLMENTS</text>
+  </g>
+
+  <g font-family="ui-monospace, monospace">
+    <text x="918" y="64" fill="#00FF88" font-size="12" letter-spacing="3">PROJECT 02 // RELATIONAL DATABASE</text>
+    <text x="918" y="108" fill="#F2FFF8" font-size="24" font-weight="700">YOGA DATABASE</text>
+  </g>
+  <g fill="none" stroke="#00FF88" stroke-width="1.5" opacity=".75">
+    <rect x="918" y="156" width="132" height="70" rx="8"/><rect x="1088" y="156" width="132" height="70" rx="8"/><rect x="1258" y="156" width="132" height="70" rx="8"/>
+    <rect x="1003" y="256" width="132" height="70" rx="8"/><rect x="1173" y="256" width="132" height="70" rx="8"/>
+    <path d="M1050 226V256M1220 226V256M1390 226V256M1135 291H1173"/>
+  </g>
+  <g font-family="ui-monospace, monospace" text-anchor="middle" fill="#8AFFC1" font-size="10">
+    <text x="984" y="188">MEMBERS</text><text x="1154" y="188">INSTRUCTORS</text><text x="1324" y="188">CLASSES</text><text x="1069" y="288">SCHEDULE</text><text x="1239" y="288">ROOMS</text>
+  </g>
+
+  <g font-family="ui-monospace, monospace">
+    <text x="54" y="418" fill="#00FF88" font-size="12" letter-spacing="3">PROJECT 03 // DATA ANALYSIS</text>
+    <text x="54" y="462" fill="#F2FFF8" font-size="24" font-weight="700">GLOBAL CYBERSECURITY THREAT DATA</text>
+  </g>
+  <g fill="none" stroke="#00FF88" stroke-width="1.5" opacity=".75">
+    <rect x="54" y="520" width="250" height="150" rx="10"/><rect x="382" y="520" width="250" height="150" rx="10"/><rect x="710" y="520" width="250" height="150" rx="10"/><rect x="1038" y="520" width="250" height="150" rx="10"/>
+    <path d="M304 595H382M632 595H710M960 595H1038"/>
+  </g>
+  <g font-family="ui-monospace, monospace" text-anchor="middle" fill="#8AFFC1" font-size="11">
+    <text x="179" y="570">CSV DATASET</text><text x="179" y="596">COUNTRY · YEAR · ATTACK</text><text x="179" y="622">TARGET · SOURCE · DEFENSE</text>
+    <text x="507" y="570">DATA EXPLORATION</text><text x="507" y="596">FIELDS · TYPES · VALUES</text><text x="507" y="622">DATASET 2015–2024</text>
+    <text x="835" y="570">DESCRIPTIVE WORK</text><text x="835" y="596">STATISTICS / GROUPING</text><text x="835" y="622">ACADEMIC ANALYSIS</text>
+    <text x="1163" y="570">PRESENTATION</text><text x="1163" y="596">TABLES / VISUALIZATION</text><text x="1163" y="622">VERIFIED CSV ONLY</text>
+  </g>
+</svg>
