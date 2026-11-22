@@ -7,9 +7,17 @@
     <g fill="#00FF88" font-size="25" font-weight="700"><text x="72" y="72">ENDPOINT DEPLOYMENT</text><text x="72" y="352">NETWORK INFRASTRUCTURE</text><text x="72" y="632">IDENTITY &amp; MICROSOFT 365</text></g>
     <g font-size="21"><text x="72" y="108">Intune / Autopilot / Addigy</text><text x="72" y="388">Switches / patch panels / wireless / Layer 1/2</text><text x="72" y="668">AD DS / Entra ID / MFA / Exchange Online</text></g>
   </g>
-  <path d="M540 200H720M540 480H720" fill="none" stroke="#1C3B2D" stroke-width="2"/>
-  <circle class="motion" r="5" fill="#8AFFC1"><animateMotion dur="5s" repeatCount="indefinite" path="M540 200 H720"/></circle>
-  <circle class="motion" r="5" fill="#8AFFC1"><animateMotion dur="7s" repeatCount="indefinite" path="M540 480 H720"/></circle>
+  <g fill="none" stroke="#1C3B2D" stroke-width="2">
+    <path d="M540 200H720M540 480H610V452H680V480H720"/>
+    <rect x="660" y="146" width="48" height="34" rx="3" stroke="#00FF88"/>
+    <path d="M652 184h64m-42-4v4"/>
+    <circle cx="610" cy="480" r="7" stroke="#00FF88"/><circle cx="680" cy="452" r="7" stroke="#00FF88"/><circle cx="680" cy="480" r="7" stroke="#00FF88"/>
+  </g>
+  <g class="motion" fill="#8AFFC1">
+    <circle r="5"><animateMotion dur="5s" repeatCount="indefinite" path="M540 200 H720"/></circle>
+    <circle r="4"><animateMotion dur="7s" repeatCount="indefinite" path="M540 480 H610V452H680V480H720"/></circle>
+    <circle r="4"><animateMotion dur="6s" begin="2s" repeatCount="indefinite" path="M720 480H680V452H610V480H540"/></circle>
+  </g>
   <circle cx="704" cy="714" r="20" fill="none" stroke="#00FF88" stroke-width="2"/>
   <path class="motion" d="m694 714 7 7 14-16" fill="none" stroke="#8AFFC1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="30" stroke-dashoffset="30">
     <animate attributeName="stroke-dashoffset" values="30;0;0;30" keyTimes="0;.2;.75;1" dur="5.5s" repeatCount="indefinite"/>

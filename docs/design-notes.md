@@ -15,7 +15,7 @@
 
 ## Rendering
 
-Visual assets use self-contained SVG primitives, native SVG animation, and system font stacks. Motion is limited to small signals, domain indicators, and process traces; all labels and metrics remain static. SVG-local reduced-motion rules hide animation-only elements while leaving the diagrams readable. No JavaScript, external fonts, iframes, or external stylesheets are used. Responsive scaling is handled by viewBox and Markdown image width.
+Visual assets use self-contained SVG primitives, native SVG animation, and system font stacks. Each animation follows its diagram: terminal command reveal and topology signals, packet paths, authentication decisions, device stages, service traces, and project-specific flows. Labels and profile metrics remain static. SVG-local reduced-motion rules hide motion layers while keeping the diagrams readable. No JavaScript, external fonts, iframes, or external stylesheets are used. Responsive scaling is handled by viewBox and Markdown image width.
 
 ## Technical boundaries
 

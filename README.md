@@ -51,7 +51,7 @@ Provided on-site Layer 1/2 infrastructure support and network troubleshooting ac
 Administered Microsoft 365 and Microsoft Entra ID environments, supporting identity lifecycle operations, Exchange Online, OneDrive permissions, MFA, user access, and licensing. Gained hands-on Azure infrastructure experience through virtual machine provisioning and Azure Portal administration.
 
 <div align="center">
-  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/563bc54/assets/cloud-ecosystem.svg" alt="Microsoft identity, Azure virtual machine, and Microsoft 365 ecosystem" width="100%">
+  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/563bc54/assets/cloud-ecosystem.svg" alt="Symbolic Microsoft identity, Azure VM provisioning, and Microsoft 365 service flow; not a deployed topology" width="100%">
 </div>
 
 ## ENTERPRISE OPERATIONS
@@ -59,7 +59,7 @@ Administered Microsoft 365 and Microsoft Entra ID environments, supporting ident
 Resolved incidents through structured ServiceNow and Jira workflows, including technical diagnosis, escalation, detailed ticket documentation, and SLA-based support. Supported onboarding and offboarding, IT asset operations, standard operating procedures, and knowledge-base documentation. Coordinated Tier 1/2 troubleshooting and communicated findings to users and technical teams.
 
 <div align="center">
-  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/563bc54/assets/operations-workflow.svg" alt="Incident lifecycle from detection through diagnosis, resolution, documentation, and improvement" width="100%">
+  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/563bc54/assets/operations-workflow.svg" alt="Illustrative incident workflow covering detection, diagnosis, remediation, verification, and documentation" width="100%">
 </div>
 
 ## COLLABORATION SYSTEMS
@@ -95,7 +95,7 @@ These case studies summarize verified professional experience rather than public
 The gym application implements PHP authentication and session handling across member, trainer, class, membership, and enrollment workflows backed by MySQL. The yoga database models members, instructors, classes, schedules, rooms, and memberships through relational tables and foreign-key relationships. The cybersecurity repository provides a structured 2015–2024 incident dataset with country, attack, industry, financial-loss, affected-user, vulnerability, defense, and resolution fields for academic data exploration.
 
 <div align="center">
-  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/563bc54/assets/projects.svg" alt="Verified project diagrams for a PHP and MySQL gym application, a yoga relational database, and a cybersecurity threat dataset" width="100%">
+  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/563bc54/assets/projects.svg" alt="Verified PHP and MySQL gym request flow, yoga database relationships, and a schematic cybersecurity dataset scan without numerical results" width="100%">
 </div>
 
 | Project | Implemented technology and scope |
