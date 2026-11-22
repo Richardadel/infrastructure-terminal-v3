@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/bbee882/assets/hero.svg" alt="Richard Fathalla — IT Infrastructure and Systems Engineering" width="100%">
+  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/18d8f12/assets/hero.svg" alt="Richard Fathalla — IT Infrastructure and Systems Engineering" width="100%">
 </div>
 
 <br>
@@ -27,7 +27,7 @@ Enterprise IT infrastructure professional with 5+ years of experience supporting
 Administered hybrid identity operations across Windows Server Active Directory Domain Services and Microsoft Entra ID, including user and computer objects, organizational units, security groups, access controls, and authentication support. Managed Microsoft 365 licensing, Exchange Online, MFA configuration, and access administration. Supported consistent onboarding, maintenance, and offboarding workflows.
 
 <div align="center">
-  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/bbee882/assets/identity-architecture.svg" alt="Hybrid identity architecture across Active Directory and Microsoft Entra ID with a separate conceptual access workflow" width="100%">
+  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/18d8f12/assets/identity-architecture.svg" alt="Hybrid identity architecture across Active Directory and Microsoft Entra ID with a separate conceptual access workflow" width="100%">
 </div>
 
 ## ENDPOINT ENGINEERING
@@ -43,7 +43,7 @@ Managed enterprise endpoint lifecycles across Windows 10/11 and macOS through Mi
 Provided on-site Layer 1/2 infrastructure support and network troubleshooting across enterprise environments, including switch-port diagnostics, patch-panel cabling, wireless access point work, and data-room operations. Assisted the network team during a site-wide upgrade with rack and server installation, cabling, and switch-port support. Applied structured diagnosis to restore connectivity and document unresolved infrastructure issues.
 
 <div align="center">
-  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/bbee882/assets/network-topology.svg" alt="Network infrastructure topology with illustrative bidirectional packet paths through network layers" width="100%">
+  <img src="https://github.com/Richardadel/infrastructure-terminal-v3/raw/18d8f12/assets/network-topology.svg" alt="Network infrastructure topology with illustrative bidirectional packet paths through network layers" width="100%">
 </div>
 
 ## CLOUD & MICROSOFT 365
