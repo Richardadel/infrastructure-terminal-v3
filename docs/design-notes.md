@@ -15,7 +15,7 @@
 
 ## Rendering
 
-All visual assets are static SVG files using system font stacks and GitHub-compatible primitives. No JavaScript, external fonts, iframes, or unsupported CSS are used. Responsive scaling is handled by viewBox and Markdown image width.
+Visual assets use self-contained SVG primitives and system font stacks. The hero includes a blinking SVG cursor with an initially visible static fallback; the remaining diagrams are static. No JavaScript, external fonts, iframes, or external stylesheets are used. Responsive scaling is handled by viewBox and Markdown image width.
 
 ## Technical boundaries
 

@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="920" viewBox="0 0 800 920" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="820" viewBox="0 0 800 820" role="img" aria-labelledby="title">
   <title id="title">Professional engineering experience timeline</title>
-  <rect width="800" height="920" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
-  <g stroke="#00FF88" stroke-width="3"><line x1="72" y1="80" x2="72" y2="840"/></g>
-  <g fill="#050807" stroke="#00FF88" stroke-width="2"><circle cx="72" cy="160" r="10"/><circle cx="72" cy="360" r="10"/><circle cx="72" cy="560" r="10"/><circle cx="72" cy="760" r="10"/></g>
+  <rect width="800" height="820" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
+  <g stroke="#00FF88" stroke-width="3"><line x1="72" y1="70" x2="72" y2="750"/></g>
+  <g fill="#050807" stroke="#00FF88" stroke-width="2"><circle cx="72" cy="140" r="10"/><circle cx="72" cy="320" r="10"/><circle cx="72" cy="500" r="10"/><circle cx="72" cy="680" r="10"/></g>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" fill="#F2FFF8">
-    <g fill="#00FF88" font-size="22" letter-spacing="1"><text x="112" y="92">JAN 2025 — PRESENT</text><text x="112" y="292">JUL 2024 — JAN 2025</text><text x="112" y="492">DEC 2022 — JUN 2024</text><text x="112" y="692">JUL 2021 — DEC 2022</text></g>
-    <g font-size="28" font-weight="700"><text x="112" y="132">FIELD SUPPORT TECHNICIAN</text><text x="112" y="332">SERVICE DESK ANALYST</text><text x="112" y="532">SYSTEM ANALYST</text><text x="112" y="732">INFORMATION TECHNOLOGY SPECIALIST</text></g>
-    <g fill="#A9BFB3" font-size="20"><text x="112" y="170">SPIN MASTER — Identity / endpoints / network / AV</text><text x="112" y="370">SPIN MASTER — M365 / identity / support</text><text x="112" y="570">NYC HEALTH + HOSPITALS — ServiceNow / SLA support</text><text x="112" y="770">NYC DEPARTMENT OF EDUCATION — Account / support</text></g>
+    <g fill="#00FF88" font-size="21" letter-spacing="1"><text x="112" y="82">JAN 2025 — PRESENT</text><text x="112" y="262">JUL 2024 — JAN 2025</text><text x="112" y="442">DEC 2022 — JUN 2024</text><text x="112" y="622">JUL 2021 — DEC 2022</text></g>
+    <g font-size="26" font-weight="700"><text x="112" y="120">FIELD SUPPORT TECHNICIAN</text><text x="112" y="300">SERVICE DESK ANALYST</text><text x="112" y="480">SYSTEM ANALYST</text><text x="112" y="660">INFORMATION TECHNOLOGY SPECIALIST</text></g>
+    <g fill="#A9BFB3" font-size="19"><text x="112" y="154">SPIN MASTER · IDENTITY / ENDPOINTS</text><text x="112" y="334">SPIN MASTER · M365 / IDENTITY</text><text x="112" y="514">NYC HEALTH + HOSPITALS · SERVICENOW</text><text x="112" y="694">NYC DOE · ACCOUNT SUPPORT</text></g>
   </g>
 </svg>
