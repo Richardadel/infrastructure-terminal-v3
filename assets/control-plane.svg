@@ -11,6 +11,9 @@
     <rect x="40" y="644" width="720" height="124" rx="14"/>
   </g>
   <g fill="none" stroke="#00FF88" stroke-width="2" opacity=".75"><path d="M400 208V224M400 348V364M400 488V504M400 628V644"/></g>
+  <circle r="6" fill="#8AFFC1" opacity=".9">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M400 84 V768"/>
+  </circle>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" fill="#F2FFF8">
     <g font-size="27" font-weight="700" fill="#00FF88"><text x="72" y="122">01  IDENTITY &amp; ACCESS</text><text x="72" y="262">02  ENDPOINT MANAGEMENT</text><text x="72" y="402">03  CLOUD &amp; MICROSOFT 365</text><text x="72" y="542">04  NETWORK INFRASTRUCTURE</text><text x="72" y="682">05  ENTERPRISE OPERATIONS</text></g>
     <g font-size="22"><text x="72" y="160">AD DS / ENTRA ID / MFA / ACCESS</text><text x="72" y="300">INTUNE / AUTOPILOT / ADDIGY</text><text x="72" y="440">AZURE VM / MICROSOFT 365 / ONEDRIVE</text><text x="72" y="580">SWITCHES / PATCH / WAP / DIAGNOSTICS</text><text x="72" y="720">SERVICENOW / JIRA / ITAM</text></g>
