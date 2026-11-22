@@ -24,7 +24,7 @@ IT infrastructure and systems support professional with 5+ years of enterprise e
 
 ## IDENTITY & ACCESS
 
-I administer hybrid identity operations across Windows Server Active Directory Domain Services and Microsoft Entra ID, including user and computer objects, organizational units, security groups, access controls, and authentication support. My Microsoft 365 work includes licensing, Exchange Online, MFA configuration, and access administration. These responsibilities support secure and consistent user lifecycle operations.
+Administered hybrid identity operations across Windows Server Active Directory Domain Services and Microsoft Entra ID, including user and computer objects, organizational units, security groups, access controls, and authentication support. Managed Microsoft 365 licensing, Exchange Online, MFA configuration, and access administration. Supported consistent onboarding, maintenance, and offboarding workflows.
 
 <div align="center">
   <img src="./assets/identity-architecture.svg" alt="Hybrid identity architecture across Active Directory and Microsoft Entra ID" width="100%">
@@ -32,7 +32,7 @@ I administer hybrid identity operations across Windows Server Active Directory D
 
 ## ENDPOINT ENGINEERING
 
-I manage enterprise endpoint lifecycles across Windows 10/11 and macOS through Microsoft Intune, Windows Autopilot, and Addigy MDM. My work includes device provisioning, domain joining, enrollment, configuration profiles, hardware assignment, replacement, and retirement. I also apply endpoint support experience to troubleshooting and maintaining devices for onsite and remote users.
+Managed enterprise endpoint lifecycles across Windows 10/11 and macOS through Microsoft Intune, Windows Autopilot, and Addigy MDM. Provisioned devices, configured domain joining and enrollment, deployed configuration profiles, and coordinated hardware assignment, replacement, and retirement. Troubleshot endpoint software, operating system, enrollment, and configuration issues for onsite and remote users.
 
 <div align="center">
   <img src="./assets/endpoint-lifecycle.svg" alt="Endpoint lifecycle covering provisioning, enrollment, configuration, management, and retirement" width="100%">
@@ -40,7 +40,7 @@ I manage enterprise endpoint lifecycles across Windows 10/11 and macOS through M
 
 ## NETWORK INFRASTRUCTURE
 
-I provide on-site Layer 1/2 infrastructure support and network troubleshooting for enterprise environments, including switch-port diagnostics, patch-panel cabling, wireless access point work, and data-room operations. During a site-wide network upgrade, I assisted the network team with rack and server installation, cabling, and connectivity support. I focus on controlled diagnosis and reliable restoration rather than network-wide architectural ownership.
+Provided on-site Layer 1/2 infrastructure support and network troubleshooting across enterprise environments, including switch-port diagnostics, patch-panel cabling, wireless access point work, and data-room operations. Assisted the network team during a site-wide upgrade with rack and server installation, cabling, and switch-port support. Applied structured diagnosis to restore connectivity and document unresolved infrastructure issues.
 
 <div align="center">
   <img src="./assets/network-topology.svg" alt="Physical and logical infrastructure topology with racks, switching, patch panels, wireless access, and endpoints" width="100%">
@@ -48,7 +48,7 @@ I provide on-site Layer 1/2 infrastructure support and network troubleshooting f
 
 ## CLOUD & MICROSOFT 365
 
-I have hands-on exposure to Azure VM provisioning through approved Microsoft Azure Portal procedures, along with Microsoft 365 administration, Exchange Online, OneDrive access, and Entra ID. I support licensing, MFA, user access, mailboxes, and identity-related workflows across enterprise cloud services. This is practical administrative experience rather than a claim of advanced cloud architecture expertise.
+Provisioned an Azure Virtual Machine through approved Azure Portal procedures. Administered Microsoft 365, Exchange Online, OneDrive access, Microsoft Entra ID, MFA, licensing, mailboxes, and user access workflows. Supported enterprise cloud services through controlled identity and access administration.
 
 <div align="center">
   <img src="./assets/cloud-ecosystem.svg" alt="Microsoft identity, Azure virtual machine, and Microsoft 365 ecosystem" width="100%">
@@ -56,7 +56,7 @@ I have hands-on exposure to Azure VM provisioning through approved Microsoft Azu
 
 ## ENTERPRISE OPERATIONS
 
-I work with structured incident management across ServiceNow and Jira, including diagnosis, escalation, ticket documentation, and SLA-based technical support. My responsibilities include onboarding and offboarding support, IT asset operations, standard operating procedures, and knowledge-base documentation. I use technical evidence and clear communication to resolve issues and maintain reliable IT operations.
+Resolved incidents through structured ServiceNow and Jira workflows, including technical diagnosis, escalation, detailed ticket documentation, and SLA-based support. Supported onboarding and offboarding, IT asset operations, standard operating procedures, and knowledge-base documentation. Coordinated Tier 1/2 troubleshooting and communicated findings to users and technical teams.
 
 <div align="center">
   <img src="./assets/operations-workflow.svg" alt="Incident lifecycle from detection through diagnosis, resolution, documentation, and improvement" width="100%">
@@ -64,7 +64,7 @@ I work with structured incident management across ServiceNow and Jira, including
 
 ## COLLABORATION SYSTEMS
 
-I support enterprise collaboration environments including Microsoft Teams Rooms, Zoom, Poly, Crestron, and Neat Devices. This includes pre-meeting equipment checks, event support, broadcasts, and real-time audio and video troubleshooting. My approach combines room readiness checks with practical diagnosis to keep meetings and enterprise events operational.
+Supported enterprise collaboration environments using Microsoft Teams Rooms, Zoom, Poly, Crestron, and Neat Devices. Conducted pre-meeting equipment checks, event support, and broadcast or webinar assistance. Troubleshot real-time audio and video issues to maintain reliable meeting-room operations.
 
 <div align="center">
   <img src="./assets/collaboration-systems.svg" alt="Enterprise meeting-room architecture with room controller, camera, audio, display, and collaboration platform" width="100%">
@@ -84,7 +84,7 @@ I support enterprise collaboration environments including Microsoft Teams Rooms,
 
 ## ENGINEERING IN PRACTICE
 
-These case studies summarize verified professional experience rather than public projects or deployed production designs. They demonstrate how I apply identity, endpoint, and network knowledge during operational work. No proprietary scripts, configurations, or internal employer infrastructure are represented.
+These case studies summarize verified professional experience rather than public projects or deployed production designs. They highlight applied identity, endpoint, and network knowledge across operational work. Proprietary scripts, configurations, and internal employer infrastructure remain excluded.
 
 <div align="center">
   <img src="./assets/case-studies.svg" alt="Professional case studies for endpoint deployment, network infrastructure support, and identity operations" width="100%">
@@ -92,7 +92,7 @@ These case studies summarize verified professional experience rather than public
 
 ## PROJECTS & TECHNICAL WORK
 
-My public work includes a database-driven PHP gym application, a MySQL and Microsoft Access yoga studio database, and a cybersecurity threat dataset for academic analysis. The gym application implements authentication, session handling, memberships, trainers, classes, and enrollment relationships. The yoga project models members, instructors, classes, schedules, rooms, and memberships, while the data repository contains a 2015–2024 cybersecurity incident CSV for exploration and statistical work.
+Public projects include a database-driven PHP gym application, a MySQL and Microsoft Access yoga studio database, and a cybersecurity threat dataset for academic analysis. The gym application implements authentication, session handling, memberships, trainers, classes, and enrollment relationships. The yoga project models members, instructors, classes, schedules, rooms, and memberships. The data repository contains a 2015–2024 cybersecurity incident CSV prepared for exploration and statistical work.
 
 <div align="center">
   <img src="./assets/projects.svg" alt="Verified project diagrams for a PHP and MySQL gym application, a yoga relational database, and a cybersecurity threat dataset" width="100%">
