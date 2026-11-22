@@ -6,7 +6,7 @@
 
 ## Engineering Profile
 
-IT infrastructure and systems support professional with 5+ years of enterprise experience across identity administration, endpoint management, networking, and technical operations. Hands-on experience with Active Directory, Microsoft Entra ID, Intune, Windows Autopilot, Addigy, Microsoft 365, and Azure VM provisioning.
+Enterprise IT infrastructure professional with 5+ years of experience supporting identity systems, endpoint management, network infrastructure, and enterprise technology operations. Hands-on experience administering Active Directory, Microsoft Entra ID, Intune, Windows Autopilot, Addigy, and Microsoft 365, with additional exposure to Azure infrastructure and cloud technologies.
 
 ## ENGINEERING AT A GLANCE
 
@@ -48,7 +48,7 @@ Provided on-site Layer 1/2 infrastructure support and network troubleshooting ac
 
 ## CLOUD & MICROSOFT 365
 
-Provisioned an Azure Virtual Machine through approved Azure Portal procedures. Administered Microsoft 365, Exchange Online, OneDrive access, Microsoft Entra ID, MFA, licensing, mailboxes, and user access workflows. Supported enterprise cloud services through controlled identity and access administration.
+Administered Microsoft 365 and Microsoft Entra ID environments, supporting identity lifecycle operations, Exchange Online, OneDrive permissions, MFA, user access, and licensing. Gained hands-on Azure infrastructure experience through virtual machine provisioning and Azure Portal administration.
 
 <div align="center">
   <img src="./assets/cloud-ecosystem.svg" alt="Microsoft identity, Azure virtual machine, and Microsoft 365 ecosystem" width="100%">
@@ -92,7 +92,7 @@ These case studies summarize verified professional experience rather than public
 
 ## PROJECTS & TECHNICAL WORK
 
-Public projects include a database-driven PHP gym application, a MySQL and Microsoft Access yoga studio database, and a cybersecurity threat dataset for academic analysis. The gym application implements authentication, session handling, memberships, trainers, classes, and enrollment relationships. The yoga project models members, instructors, classes, schedules, rooms, and memberships. The data repository contains a 2015–2024 cybersecurity incident CSV prepared for exploration and statistical work.
+The gym application implements PHP authentication and session handling across member, trainer, class, membership, and enrollment workflows backed by MySQL. The yoga database models members, instructors, classes, schedules, rooms, and memberships through relational tables and foreign-key relationships. The cybersecurity repository provides a structured 2015–2024 incident dataset with country, attack, industry, financial-loss, affected-user, vulnerability, defense, and resolution fields for academic data exploration.
 
 <div align="center">
   <img src="./assets/projects.svg" alt="Verified project diagrams for a PHP and MySQL gym application, a yoga relational database, and a cybersecurity threat dataset" width="100%">
