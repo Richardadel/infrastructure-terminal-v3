@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-labelledby="title">
   <title id="title">Engineering experience at a glance</title>
+  <style>@media (prefers-reduced-motion: reduce) {.motion { display: none; }}</style>
   <rect width="800" height="420" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
   <g fill="#101A16" stroke="#1C3B2D" stroke-width="2"><rect x="40" y="40" width="340" height="150" rx="12"/><rect x="420" y="40" width="340" height="150" rx="12"/><rect x="40" y="230" width="340" height="150" rx="12"/><rect x="420" y="230" width="340" height="150" rx="12"/></g>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
@@ -7,4 +8,10 @@
     <text x="210" y="292" fill="#00FF88" font-size="28" font-weight="700">HYBRID IDENTITY</text><text x="590" y="292" fill="#F2FFF8" font-size="28" font-weight="700">MULTI-PLATFORM</text>
   </g>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#A9BFB3" font-size="20"><text x="210" y="156">YEARS OF IT EXPERIENCE</text><text x="590" y="156">USERS SUPPORTED</text><text x="210" y="338">AD DS / ENTRA ID</text><text x="590" y="338">WINDOWS / macOS</text></g>
+  <g fill="#00FF88">
+    <circle class="motion" cx="350" cy="58" r="5"><animate attributeName="opacity" values=".3;.9;.3" dur="5s" repeatCount="indefinite"/></circle>
+    <circle class="motion" cx="730" cy="58" r="5"><animate attributeName="opacity" values=".3;.9;.3" dur="5s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle class="motion" cx="350" cy="248" r="5"><animate attributeName="opacity" values=".3;.9;.3" dur="5s" begin="2.4s" repeatCount="indefinite"/></circle>
+    <circle class="motion" cx="730" cy="248" r="5"><animate attributeName="opacity" values=".3;.9;.3" dur="5s" begin="3.6s" repeatCount="indefinite"/></circle>
+  </g>
 </svg>

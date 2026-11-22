@@ -15,8 +15,8 @@
 
 ## Rendering
 
-Visual assets use self-contained SVG primitives and system font stacks. The hero includes a blinking SVG cursor with an initially visible static fallback; the remaining diagrams are static. No JavaScript, external fonts, iframes, or external stylesheets are used. Responsive scaling is handled by viewBox and Markdown image width.
+Visual assets use self-contained SVG primitives, native SVG animation, and system font stacks. Motion is limited to small signals, domain indicators, and process traces; all labels and metrics remain static. SVG-local reduced-motion rules hide animation-only elements while leaving the diagrams readable. No JavaScript, external fonts, iframes, or external stylesheets are used. Responsive scaling is handled by viewBox and Markdown image width.
 
 ## Technical boundaries
 
-The resume is the source of truth for professional claims. Public repository contents verify the gym, yoga, and cybersecurity projects. Azure and Linux lab cards are omitted because no verified public implementation was found. Conceptual diagrams do not describe employer production environments.
+The resume is the source of truth for professional claims. Public repository contents verify the gym, yoga, and cybersecurity projects. Azure and Linux lab cards are omitted because no verified public implementation was found. Animated signals are symbolic and do not represent live telemetry, production integrations, or employer infrastructure.

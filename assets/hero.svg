@@ -15,6 +15,7 @@
       <path d="M32 0H0V32" fill="none" stroke="#00FF88" stroke-opacity=".055"/>
     </pattern>
   </defs>
+  <style>@media (prefers-reduced-motion: reduce) {.motion { display: none; }}</style>
   <rect width="1440" height="560" rx="20" fill="url(#background)"/>
   <rect x="1" y="1" width="1438" height="558" rx="19" fill="none" stroke="#1C3B2D" stroke-width="2"/>
   <rect x="22" y="22" width="1396" height="516" rx="14" fill="url(#grid)"/>
@@ -29,7 +30,7 @@
     <text x="72" y="270" fill="#00FF88" font-size="32" font-weight="700" letter-spacing="1">IT INFRASTRUCTURE / SYSTEMS</text>
     <text x="72" y="310" fill="#00FF88" font-size="32" font-weight="700" letter-spacing="1">ENGINEERING / CLOUD TECHNOLOGIES</text>
     <text x="72" y="362" fill="#A9BFB3" font-size="22">richard_fathalla@engineering:~$</text>
-    <rect x="380" y="341" width="12" height="28" fill="#00FF88">
+    <rect class="motion" x="380" y="341" width="12" height="28" fill="#00FF88">
       <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
   </g>
@@ -49,8 +50,11 @@
     <rect x="1242" y="388" width="156" height="64" rx="10"/>
   </g>
   <g fill="#050807" stroke="#00FF88" stroke-width="2">
-    <circle cx="850" cy="360" r="8"/><circle cx="922" cy="246" r="8"/><circle cx="1054" cy="156" r="8"/>
-    <circle cx="1242" cy="156" r="8"/><circle cx="1242" cy="420" r="8"/>
+    <circle cx="842" cy="360" r="7"><animate class="motion" attributeName="stroke-opacity" values=".4;1;.4" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="922" cy="246" r="8"><animate class="motion" attributeName="stroke-opacity" values=".4;1;.4" dur="5s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="1054" cy="156" r="8"><animate class="motion" attributeName="stroke-opacity" values=".4;1;.4" dur="5s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="1242" cy="156" r="8"><animate class="motion" attributeName="stroke-opacity" values=".4;1;.4" dur="5s" begin="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1242" cy="420" r="8"><animate class="motion" attributeName="stroke-opacity" values=".4;1;.4" dur="5s" begin="4s" repeatCount="indefinite"/></circle>
   </g>
   <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#8AFFC1" font-size="21">
     <text x="914" y="367">OPERATIONS</text><text x="1000" y="253">IDENTITY</text>

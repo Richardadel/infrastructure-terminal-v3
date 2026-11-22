@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="1060" viewBox="0 0 800 1060" role="img" aria-labelledby="title desc">
   <title id="title">Verified GitHub projects</title>
   <desc id="desc">Three verified projects: a PHP and MySQL gym application, a yoga relational database, and a cybersecurity incident dataset.</desc>
+  <style>@media (prefers-reduced-motion: reduce) {.motion { display: none; }}</style>
   <rect width="800" height="1060" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
   <g fill="#101A16" stroke="#1C3B2D" stroke-width="2">
     <rect x="40" y="40" width="720" height="310" rx="16"/><rect x="40" y="380" width="720" height="310" rx="16"/><rect x="40" y="720" width="720" height="310" rx="16"/>
@@ -20,4 +21,8 @@
     <text x="96" y="592">MYSQL / MICROSOFT ACCESS / RELATIONAL TABLES</text><text x="96" y="630">MEMBERS / INSTRUCTORS / CLASSES / SCHEDULE</text>
     <text x="96" y="932">CSV / COUNTRY / YEAR / ATTACK / INDUSTRY</text><text x="96" y="970">LOSS / USERS / VULNERABILITY / RESPONSE</text>
   </g>
+  <path d="M560 310H700M560 650H700M700 910V980" fill="none" stroke="#1C3B2D" stroke-width="2"/>
+  <circle class="motion" r="5" fill="#8AFFC1"><animateMotion dur="5.5s" repeatCount="indefinite" path="M560 310 H700"/></circle>
+  <circle class="motion" r="5" fill="#8AFFC1"><animateMotion dur="7.5s" repeatCount="indefinite" path="M560 650 H700"/></circle>
+  <circle class="motion" r="5" fill="#8AFFC1"><animateMotion dur="6.5s" repeatCount="indefinite" path="M700 910 V980"/></circle>
 </svg>
