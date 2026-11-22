@@ -1,81 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="620" viewBox="0 0 1440 620" role="img" aria-labelledby="title desc">
-  <title id="title">Enterprise infrastructure control plane</title>
-  <desc id="desc">A conceptual five-domain infrastructure architecture linking identity, endpoints, cloud productivity, physical networking, and operations.</desc>
-  <defs>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#102119" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="1440" height="620" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
-  <rect x="24" y="24" width="1392" height="572" rx="12" fill="url(#grid)" opacity=".92"/>
-
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" fill="#A9BFB3" font-size="22" letter-spacing="2">
-    <text x="72" y="70">CONCEPTUAL ENGINEERING MODEL // 5 DOMAIN STACK</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1020" viewBox="0 0 800 1020" role="img" aria-labelledby="title desc">
+  <title id="title">Infrastructure engineering control plane</title>
+  <desc id="desc">A stacked conceptual view of identity, endpoints, cloud, networking, and operations expertise.</desc>
+  <rect width="800" height="1020" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="40" y="56" fill="#A9BFB3" font-size="22" letter-spacing="2">CONCEPTUAL ENGINEERING MODEL</text>
   </g>
-  <line x1="72" y1="90" x2="1368" y2="90" stroke="#1C3B2D"/>
-
-  <g fill="#0B1110" stroke="#1C3B2D" stroke-width="2">
-    <path d="M196 148H1244C1262 148 1276 162 1276 180V228H164V180C164 162 178 148 196 148Z"/>
-    <path d="M196 244H1244C1262 244 1276 258 1276 276V324H164V276C164 258 178 244 196 244Z"/>
-    <path d="M196 340H1244C1262 340 1276 354 1276 372V420H164V372C164 354 178 340 196 340Z"/>
+  <g fill="#101A16" stroke="#1C3B2D" stroke-width="2">
+    <rect x="40" y="84" width="720" height="150" rx="14"/><rect x="40" y="254" width="720" height="150" rx="14"/>
+    <rect x="40" y="424" width="720" height="150" rx="14"/><rect x="40" y="594" width="720" height="150" rx="14"/>
+    <rect x="40" y="764" width="720" height="150" rx="14"/>
   </g>
-
-  <g fill="#101A16" stroke="#00FF88" stroke-width="1.5">
-    <rect x="96" y="438" width="230" height="118" rx="12"/>
-    <rect x="358" y="438" width="230" height="118" rx="12"/>
-    <rect x="620" y="438" width="230" height="118" rx="12"/>
-    <rect x="882" y="438" width="230" height="118" rx="12"/>
-    <rect x="1144" y="438" width="230" height="118" rx="12"/>
+  <g fill="none" stroke="#00FF88" stroke-width="2" opacity=".75"><path d="M400 234V254M400 404V424M400 574V594M400 744V764"/></g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" fill="#F2FFF8">
+    <g font-size="28" font-weight="700" fill="#00FF88"><text x="72" y="122">01  IDENTITY &amp; ACCESS</text><text x="72" y="292">02  ENDPOINT MANAGEMENT</text><text x="72" y="462">03  CLOUD &amp; MICROSOFT 365</text><text x="72" y="632">04  NETWORK INFRASTRUCTURE</text><text x="72" y="802">05  ENTERPRISE OPERATIONS</text></g>
+    <g font-size="22"><text x="72" y="160">AD DS / ENTRA ID / MFA / ACCESS</text><text x="72" y="330">INTUNE / AUTOPILOT / ADDIGY</text><text x="72" y="500">AZURE VM / MICROSOFT 365 / ONEDRIVE</text><text x="72" y="670">SWITCHES / PATCH / WAP / DIAGNOSTICS</text><text x="72" y="840">SERVICENOW / JIRA / ITAM</text></g>
   </g>
-
-  <g fill="#050807" stroke="#1C3B2D" stroke-width="1.5">
-    <rect x="196" y="166" width="190" height="42" rx="8"/>
-    <rect x="625" y="166" width="190" height="42" rx="8"/>
-    <rect x="1054" y="166" width="190" height="42" rx="8"/>
-    <rect x="196" y="262" width="190" height="42" rx="8"/>
-    <rect x="625" y="262" width="190" height="42" rx="8"/>
-    <rect x="1054" y="262" width="190" height="42" rx="8"/>
-    <rect x="196" y="358" width="190" height="42" rx="8"/>
-    <rect x="625" y="358" width="190" height="42" rx="8"/>
-    <rect x="1054" y="358" width="190" height="42" rx="8"/>
-  </g>
-
-  <g fill="none" stroke="#00FF88" stroke-width="1.5" opacity=".72">
-    <path d="M720 438V420"/>
-    <path d="M211 438V420"/>
-    <path d="M473 438V420"/>
-    <path d="M997 438V420"/>
-    <path d="M1259 438V420"/>
-    <path d="M211 438C211 382 720 382 720 438"/>
-    <path d="M473 438C473 392 720 392 720 438"/>
-    <path d="M997 438C997 392 720 392 720 438"/>
-    <path d="M1259 438C1259 382 720 382 720 438"/>
-  </g>
-
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" font-size="24">
-    <g fill="#F2FFF8">
-      <text x="291" y="192">AD DS / ENTRA ID</text>
-      <text x="720" y="192">MFA / ACCESS CONTROLS</text>
-      <text x="1149" y="192">USER / GROUP ADMIN</text>
-      <text x="291" y="288">INTUNE / AUTOPILOT</text>
-      <text x="720" y="288">ADDIGY / WINDOWS / macOS</text>
-      <text x="1149" y="288">PROVISION / RETIRE</text>
-      <text x="291" y="384">AZURE VM / M365</text>
-      <text x="720" y="384">EXCHANGE / ONEDRIVE</text>
-      <text x="1149" y="384">ENTRA ID / LICENSING</text>
-    </g>
-  </g>
-
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#F2FFF8" font-size="24">
-    <text x="211" y="477">NETWORK</text><text x="473" y="477">PHYSICAL INFRA</text>
-    <text x="735" y="477">OPERATIONS</text><text x="997" y="477">COLLABORATION</text><text x="1259" y="477">SUPPORT FLOW</text>
-  </g>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#A9BFB3" font-size="20">
-    <text x="211" y="501">SWITCH / PATCH</text><text x="211" y="520">WAP / DIAGNOSTICS</text>
-    <text x="473" y="501">RACK / CABLING</text><text x="473" y="520">CONNECTIVITY</text>
-    <text x="735" y="501">SERVICENOW / JIRA</text><text x="735" y="520">INCIDENT / ASSET</text>
-    <text x="997" y="501">TEAMS / ZOOM</text><text x="997" y="520">AV / EVENTS</text>
-    <text x="1259" y="501">DETECT / RESOLVE</text><text x="1259" y="520">DOCUMENT / ESCALATE</text>
-  </g>
-  <text x="720" y="586" fill="#A9BFB3" font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" font-size="20" letter-spacing="1">CONCEPTUAL EXPERTISE MODEL — NOT A DEPLOYED PRODUCTION ENVIRONMENT</text>
+  <text x="400" y="964" text-anchor="middle" fill="#A9BFB3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">CONCEPTUAL EXPERTISE MODEL — NOT LIVE INFRASTRUCTURE</text>
 </svg>

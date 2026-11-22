@@ -1,20 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
-  <title id="title">Engineering practice case studies</title>
-  <desc id="desc">Endpoint deployment, network infrastructure support, and identity and Microsoft 365 operations.</desc>
-  <rect width="1440" height="520" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
-  <g fill="#0B1110" stroke="#1C3B2D" stroke-width="2">
-    <rect x="24" y="24" width="448" height="472" rx="16"/><rect x="496" y="24" width="448" height="472" rx="16"/><rect x="968" y="24" width="448" height="472" rx="16"/>
-  </g>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <g fill="#00FF88" font-size="22" letter-spacing="2"><text x="54" y="72">CASE 01 // ENDPOINTS</text><text x="526" y="72">CASE 02 // NETWORK</text><text x="998" y="72">CASE 03 // IDENTITY</text></g>
-    <g fill="#F2FFF8" font-size="32" font-weight="700"><text x="54" y="118">DEVICE LIFECYCLE</text><text x="526" y="118">PHYSICAL SUPPORT</text><text x="998" y="118">IDENTITY &amp; M365</text></g>
-  </g>
-  <g fill="#101A16" stroke="#00FF88" stroke-width="1.5">
-    <rect x="54" y="156" width="388" height="300" rx="12"/><rect x="526" y="156" width="388" height="300" rx="12"/><rect x="998" y="156" width="388" height="300" rx="12"/>
-  </g>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#F2FFF8" font-size="24">
-    <text x="248" y="210">PROVISION / ENROLL</text><text x="248" y="250">CONFIGURE / MANAGE</text><text x="248" y="290">SUPPORT / RETIRE</text>
-    <text x="720" y="210">SWITCH / PATCH</text><text x="720" y="250">CABLING / WIRELESS</text><text x="720" y="290">ASSIST / DIAGNOSE</text>
-    <text x="1192" y="210">AD / ENTRA ID</text><text x="1192" y="250">MFA / ACCESS</text><text x="1192" y="290">M365 / EXCHANGE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="940" viewBox="0 0 800 940" role="img" aria-labelledby="title">
+  <title id="title">Engineering case studies</title>
+  <rect width="800" height="940" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
+  <g fill="#101A16" stroke="#1C3B2D" stroke-width="2"><rect x="40" y="40" width="720" height="240" rx="14"/><rect x="40" y="300" width="720" height="240" rx="14"/><rect x="40" y="560" width="720" height="240" rx="14"/></g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" fill="#F2FFF8">
+    <g fill="#00FF88" font-size="26" font-weight="700"><text x="72" y="82">ENDPOINT DEPLOYMENT</text><text x="72" y="342">NETWORK INFRASTRUCTURE</text><text x="72" y="602">IDENTITY &amp; MICROSOFT 365</text></g>
+    <g font-size="22"><text x="72" y="118">Intune / Autopilot / Addigy</text><text x="72" y="378">Switches / patch panels / wireless / Layer 1/2</text><text x="72" y="638">AD DS / Entra ID / MFA / Exchange Online</text></g>
   </g>
 </svg>

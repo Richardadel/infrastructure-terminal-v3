@@ -1,11 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title">
-  <title id="title">Technical capabilities matrix</title>
-  <rect width="1440" height="520" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
-  <g stroke="#1C3B2D" stroke-width="1"><line x1="480" y1="40" x2="480" y2="480"/><line x1="960" y1="40" x2="960" y2="480"/><line x1="40" y1="260" x2="1400" y2="260"/></g>
-  <g fill="#101A16" stroke="#00FF88" stroke-width="1.5"><circle cx="120" cy="150" r="38"/><circle cx="600" cy="150" r="38"/><circle cx="1080" cy="150" r="38"/><circle cx="120" cy="370" r="38"/><circle cx="600" cy="370" r="38"/><circle cx="1080" cy="370" r="38"/></g>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" fill="#00FF88" font-size="22" letter-spacing="1"><text x="120" y="158">ID</text><text x="600" y="158">EP</text><text x="1080" y="158">CL</text><text x="120" y="378">IN</text><text x="600" y="378">OP</text><text x="1080" y="378">AV</text></g>
-  <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <g fill="#F2FFF8" font-size="28" font-weight="700"><text x="180" y="128">IDENTITY</text><text x="660" y="128">ENDPOINTS</text><text x="1140" y="128">CLOUD</text><text x="180" y="348">INFRASTRUCTURE</text><text x="660" y="348">OPERATIONS</text><text x="1140" y="348">COLLABORATION</text></g>
-    <g fill="#A9BFB3" font-size="20"><text x="180" y="158">AD / ENTRA ID / MFA</text><text x="180" y="188">SECURITY / ACCESS GROUPS</text><text x="660" y="158">INTUNE / AUTOPILOT / ADDIGY</text><text x="660" y="188">WINDOWS / macOS</text><text x="1140" y="158">AZURE VM / M365</text><text x="1140" y="188">EXCHANGE / ONEDRIVE</text><text x="180" y="378">L1/L2 / SWITCHES / PATCH</text><text x="180" y="408">RACKS / WI-FI / CABLING</text><text x="660" y="378">SERVICENOW / JIRA</text><text x="660" y="408">ITAM / INCIDENT / SOP</text><text x="1140" y="378">TEAMS ROOMS / ZOOM</text><text x="1140" y="408">POLY / CRESTRON / NEAT</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="840" viewBox="0 0 800 840" role="img" aria-labelledby="title">
+  <title id="title">Technical capabilities</title>
+  <rect width="800" height="840" rx="18" fill="#050807" stroke="#1C3B2D" stroke-width="2"/>
+  <g fill="#101A16" stroke="#1C3B2D" stroke-width="2">
+    <rect x="40" y="40" width="720" height="110" rx="12"/><rect x="40" y="170" width="720" height="110" rx="12"/>
+    <rect x="40" y="300" width="720" height="110" rx="12"/><rect x="40" y="430" width="720" height="110" rx="12"/>
+    <rect x="40" y="560" width="720" height="110" rx="12"/><rect x="40" y="690" width="720" height="110" rx="12"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" fill="#F2FFF8">
+    <g fill="#00FF88" font-size="26" font-weight="700"><text x="72" y="82">IDENTITY</text><text x="72" y="212">ENDPOINTS</text><text x="72" y="342">CLOUD</text><text x="72" y="472">INFRASTRUCTURE</text><text x="72" y="602">OPERATIONS</text><text x="72" y="732">COLLABORATION</text></g>
+    <g font-size="22"><text x="72" y="118">AD / Entra ID / MFA / Security Groups</text><text x="72" y="248">Intune / Autopilot / Addigy / Windows / macOS</text><text x="72" y="378">Azure VM / Microsoft 365 / Exchange / OneDrive</text><text x="72" y="508">L1/L2 / Switches / Patch / Wi-Fi / Cabling</text><text x="72" y="638">ServiceNow / Jira / ITAM / SOP / Incident</text><text x="72" y="768">Teams Rooms / Zoom / Poly / Crestron / Neat</text></g>
   </g>
 </svg>
